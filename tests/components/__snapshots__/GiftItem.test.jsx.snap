@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <GiftItem/> Must match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Hola, soy goku"
+      src="http://dragon-ball/goku.jpg"
+    />
+    <p>
+      Hola, soy goku
+    </p>
+  </div>
+</div>
+`;
